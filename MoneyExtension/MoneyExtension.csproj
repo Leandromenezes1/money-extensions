@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>8c62e1637d934df6bf6a13e7ac48e5c9MoneyExtension</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Leandro Menezes</Authors>
